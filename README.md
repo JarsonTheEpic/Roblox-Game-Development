@@ -20,3 +20,9 @@ Features:
 - [ ] Expanded city districts
 - [ ] Dynamic weather events
 - [ ] Player housing & crafting
+
+
+
+## LICENSE
+This project is for educational and portfolio purposes only.
+You may not publish or monetize this project, in whole or in part, on Roblox or any other platform without permission.
